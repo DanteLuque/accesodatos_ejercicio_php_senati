@@ -1,1 +1,4 @@
-En proceso...
+### Procedimientos
+```
+composer install
+```
