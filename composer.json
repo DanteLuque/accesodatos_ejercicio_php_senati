@@ -2,7 +2,7 @@
     "name": "senati/accesodatos",
     "autoload": {
         "psr-4": {
-            "Senati\\Accesodatos\\": "src/"
+            "Senati\\Accesodatos\\": "app/"
         }
     },
     "authors": [
