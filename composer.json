@@ -1,0 +1,17 @@
+{
+    "name": "senati/accesodatos",
+    "autoload": {
+        "psr-4": {
+            "Senati\\Accesodatos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DanteLuque",
+            "email": "danteluque706@gmail.com"
+        }
+    ],
+    "require": {
+        "spipu/html2pdf": "^5.3"
+    }
+}
